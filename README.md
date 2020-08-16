@@ -43,3 +43,10 @@ You can find it at https://github.com/sleepy068/CommunityResourcePack/releases
 https://discord.gg/rMTxUTV
 Don't hesitate to contact me if you experience any issues.
 Special thanks to Sleepy068 and Butch for their help.
+
+------------------------
+
+# Installation :
+1. Go to your Project Hospital Folder: Project Hospital\ProjectHospital_Data\StreamingAssets\Addons
+2. Unzip ModMoreDg here
+3. If you see the name of the mod in the home menu of the game you have installed it !
