@@ -1,0 +1,14 @@
+<Database>
+    
+    <GameDBDiagnosisOccurrence ID="OCCURRENCE_MOREDG_TR">	<!-- Très rare -->
+        <OccurrenceRate>25</OccurrenceRate>
+    </GameDBDiagnosisOccurrence>
+
+    <GameDBDiagnosisOccurrence ID="OCCURRENCE_MOREDG_ER">	<!-- Extremement rare -->
+        <OccurrenceRate>10</OccurrenceRate>
+    </GameDBDiagnosisOccurrence>
+	
+	    <GameDBDiagnosisOccurrence ID="OCCURRENCE_MOREDG_EXCEPTIONNEL">
+        <OccurrenceRate>1</OccurrenceRate>
+    </GameDBDiagnosisOccurrence>
+</Database>

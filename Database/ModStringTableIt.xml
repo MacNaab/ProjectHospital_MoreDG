@@ -1,0 +1,19 @@
+<Database>
+    <GameDBStringTable ID="LOC_IT_ADDON_MOD_MORE_DG">
+    
+        <LanguageCode>it</LanguageCode>
+        <LanguageNameLocalized>Italiano</LanguageNameLocalized>
+
+        <Contributors>
+			<Name>Rimat</Name>
+        </Contributors>
+		
+	<LocalizedStrings>
+		
+	<GameDBLocalizedString>      <LocID>ADDON_MOD_MORE_DG</LocID>                       <Text>Più diagnosi</Text>  </GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	
+	</GameDBStringTable>
+
+</Database>

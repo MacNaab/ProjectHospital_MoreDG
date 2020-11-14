@@ -1,0 +1,19 @@
+<Database>
+    <GameDBStringTable ID="LOC_HU_ADDON_MOD_MORE_DG">
+    
+    <LanguageCode>hu</LanguageCode>
+    <LanguageNameLocalized>Magyar</LanguageNameLocalized>
+		
+	<Contributors>
+    <Name>kmd94</Name>
+    </Contributors>
+		
+	<LocalizedStrings>
+		
+	<GameDBLocalizedString>      <LocID>ADDON_MOD_MORE_DG</LocID>                       <Text>Több diagnózis</Text>  </GameDBLocalizedString>
+	
+	</LocalizedStrings>
+	
+	</GameDBStringTable>
+
+</Database>
