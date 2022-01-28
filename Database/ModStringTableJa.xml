@@ -1,0 +1,23 @@
+<Database>
+    <GameDBStringTable ID="LOC_JA_ADDON_MOD_MORE_DG">
+
+        <LanguageCode>ja</LanguageCode>
+        <LanguageNameLocalized>日本語</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>MacNaab</Name>
+            <Name>Erzen</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+            <GameDBLocalizedString>
+                <LocID>ADDON_MOD_MORE_DG</LocID>
+                <Text>より多くの診断(MORE_DG)</Text>
+            </GameDBLocalizedString>
+
+        </LocalizedStrings>
+
+    </GameDBStringTable>
+
+</Database>

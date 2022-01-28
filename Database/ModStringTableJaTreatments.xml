@@ -1,0 +1,225 @@
+﻿<Database>
+	<GameDBStringTable ID="LOC_EN_ADDON_MORE_DG_TREATMENTS">
+
+		<LanguageCode>ja</LanguageCode>
+		<LanguageNameLocalized>日本語</LanguageNameLocalized>
+
+		<Contributors>
+			<Name>MacNaab</Name>
+			<Name>Erzen</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+
+			<!-- ================================================== CRP - translate and transfer to CRP ==================================================
++++  v0.01  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_KCL</LocID>												<Text>Potassium salt</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_KCL_DESCRIPTION</LocID>									<Text>The most used is potassium chloride in micro-encapsulated form. It is an oral potassium supplement</Text>	</GameDBLocalizedString>
++++  v0.02  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_MOISTURIZER_CREAM</LocID>										<Text>Moisturizer cream</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_MOISTURIZER_CREAM_DESCRIPTION</LocID>							<Text>A cosmetic preparation used to prevent dryness in the skin.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_GLUCOSE_IV</LocID>												<Text>Glucose infusion</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_GLUCOSE_IV_DESCRIPTION</LocID>									<Text>Venous glucose infusion.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_HYDROCORTISONE</LocID>											<Text>Hydrocortisone</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_HYDROCORTISONE_DESCRIPTION</LocID>								<Text>Hydrocortisone is the name for the hormone cortisol when supplied as a medication.</Text>	</GameDBLocalizedString>
++++  v0.03  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_AUTOGRAFT</LocID>								<Text>Autograft</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_AUTOGRAFT_DESCRIPTION</LocID>					<Text>A graft of tissue from one point to another of the same individual's body.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_ALLOGRAFT</LocID>								<Text>Allograft</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_ALLOGRAFT_DESCRIPTION</LocID>					<Text>A tissue graft from a donor of the same species as the recipient but not genetically identical.</Text>	</GameDBLocalizedString>
++++  v0.03.2  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_CHELATEUR_FER</LocID>								<Text>Iron Chelators</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_CHELATEUR_FER_DESCRIPTION</LocID>					<Text>The goal of iron chelation therapy is to prevent iron-mediated injury to cells.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_SCLEROTHERAPIE</LocID>								<Text>Sclerotherapy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_SCLEROTHERAPIE_DESCRIPTION</LocID>					<Text>It's the treatment of varicose blood vessels by the injection of an irritant which causes inflammation, coagulation of blood, and narrowing of the blood vessel wall.</Text>	</GameDBLocalizedString>
++++  v0.03.3  +++		
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IMMUNOSUPRR</LocID>										<Text>Immunosuppressive drugs</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IMMUNOSUPRR_DESCRIPTION</LocID>							<Text>Immunosuppressive drugs, also known as immunosuppressive agents, immunosuppressants and antirejection medications are drugs that inhibit or prevent activity of the immune system.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IPP_IV</LocID>											<Text>IV PPI</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_IPP_IV_DESCRIPTION</LocID>								<Text>Treatment with a high dose Proton Pump Inhibitor before gastroscopy decreases the need for endoscopic hemostasis.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_RADIO_EMBOLISATION</LocID>								<Text>Endovascular embolization</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>TRT_CRP_RADIO_EMBOLISATION_DESCRIPTION</LocID>					<Text>In endovascular embolization, a catheter is inserts into a leg artery and threads it through blood vessels to injects an embolizing agent using X-ray imaging. </Text>	</GameDBLocalizedString>
+-->
+
+			<!-- ================================================== Normaux ================================================== -->
+			<!--  v0.02  -->
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_ANDROGENOTHERAPIE</LocID>
+				<Text>アンドロゲン補充療法</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_ANDROGENOTHERAPIE_DESCRIPTION</LocID>
+				<Text>アンドロゲン補充療法（ART）は、テストステロン補充療法（TRT）とも呼ばれ、男性ホルモン（多くはテストステロン）を補充するホルモン療法の一種です。ARTは、男性の性腺機能低下症に対抗するために処方されることがあります。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_AGONISTE_DOPA</LocID>
+				<Text>ドーパミン受容体刺激薬</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_AGONISTE_DOPA_DESCRIPTION</LocID>
+				<Text>ドーパミン受容体作動薬（DA）とは、ドーパミン受容体を活性化する化合物のことです。ドーパミン受容体には、D2様とD1様の2つのファミリーがあり、いずれもGタンパク質共役型受容体です。D1およびD5受容体はD1様ファミリーに属し、D2様ファミリーにはD2、D3、D4受容体が含まれます。DAは、パーキンソン病に使用されているほか、うつ病、高プロラクチン血症、レストレスレッグ症候群などの治療にも使用されています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_HC_FC</LocID>
+				<Text>ヒドロコルチゾン＋フルドロコルチゾンによる治療</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_HC_FC_DESCRIPTION</LocID>
+				<Text>副腎皮質ホルモンであるヒドロコルチゾンとフルオコルチゾンの併用です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_SUPPLEMENT_vitD</LocID>
+				<Text>ビタミンD投与</Text>
+			</GameDBLocalizedString>
+			<!--  v0.03  -->
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_ANTICORPS_MONOCLONAL</LocID>
+				<Text>モノクローナル抗体療法</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_ANTICORPS_MONOCLONAL_DESCRIPTION</LocID>
+				<Text>モノクローナル抗体（mAbまたはmoAb）は、ユニークな親細胞のクローンである同一の免疫細胞によって作られる抗体です。モノクローナル抗体は、同じ抗原決定基（抗体によって認識される抗原の一部）に結合するという一価の親和性を持つことができます。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_DEFEROXAMINE</LocID>
+				<Text>三価カチオンキレート剤</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_DEFEROXAMINE_DESCRIPTION</LocID>
+				<Text>三価カチオンキレート剤は、血漿や細胞から遊離した鉄を固定してフェリオキサミン錯体を形成することができます。</Text>
+			</GameDBLocalizedString>
+			<!--  v0.03.2  -->
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_IGP</LocID>
+				<Text>糖脂質生合成阻害剤（GBI）</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_IGP_DESCRIPTION</LocID>
+				<Text>糖脂質生合成阻害剤は、糖脂質の合成を阻害します。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_TTT_ENZ_SUBSTITU</LocID>
+				<Text>酸素補充療法（ERT）</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_TTT_ENZ_SUBSTITU_DESCRIPTION</LocID>
+				<Text>酵素補充療法（ERT）とは、体内で不足または欠乏している酵素を補充する医療行為です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_PHLÉBOTOMIES</LocID>
+				<Text>瀉血</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_PHLÉBOTOMIES_DESCRIPTION</LocID>
+				<Text>血を抜くため、液体を入れるため、または（歴史的に）血を抜くために、外科的に静脈を開く、または穿刺することです。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_DANAPAROÏDE_SODIQUE</LocID>
+				<Text>ダナパロイドナトリウム（血液凝固阻止剤）</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_DANAPAROÏDE_SODIQUE_DESCRIPTION</LocID>
+				<Text>ダナパロイドナトリウムは、ATを介したFactor Xaの間接的な不活性化とFactor IXのトロンビン活性化（トロンビン生成の重要なフィードバックループ）の直接阻害の2つのメカニズムによるトロンビン生成抑制（TGI）による抗血栓作用がある薬剤です。</Text>
+			</GameDBLocalizedString>
+
+			<!-- ================================================== Chirurgie ================================================== -->
+
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE</LocID>
+				<Text>弁置換手術</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_REMPLACEMENT_VALVULAIRE_DESCRIPTION</LocID>
+				<Text>弁置換手術は、1つ以上の心臓弁を人工心臓弁またはバイオプロテーゼに置き換える手術です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_PACEMAKER</LocID>
+				<Text>ペースメーカー</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_PACEMAKER_DESCRIPTION</LocID>
+				<Text>心臓ペースメーカー（または人工ペースメーカー、心臓の自然ペースメーカーと混同しないように）は、心臓の筋肉の部屋（上部または心房、下部または心室）を収縮させるために、電極によって送られる電気インパルスを生成する医療機器であり、それによってこのデバイスは心臓の電気伝導システムの機能を代替および/または調節するものです。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_DAI</LocID>
+				<Text>植込み型除細動器（ICD）</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_DAI_DESCRIPTION</LocID>
+				<Text>植込み型除細動器（ICD）または自動植込み型除細動器（AICD）は、体内に埋め込むことができる装置で、心臓の除細動、ペーシング（最新型）を行うことができます。そのため、生命を脅かすほとんどの不整脈を修正することができます。ICDは、心室細動や心室頻拍により心臓突然死の危険性がある患者の第一選択治療および予防治療となります。現在のデバイスは、異常な心臓のリズムを検出し、低エネルギーおよび高エネルギーショックに加えて、プログラム可能な抗頻拍ペーシングによる治療を行うようにプログラムすることができます。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_REVASCULARISATION</LocID>
+				<Text>血管再灌流療法</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_REVASCULARISATION_DESCRIPTION</LocID>
+				<Text>血管バイパス術と血管形成術は、再灌流療法の主要な2つの手段です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE</LocID>
+				<Text>筋膜切開</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_APONEVROTOMIE_DECHARGE_DESCRIPTION</LocID>
+				<Text>筋膜切開術は、筋膜を切断して緊張や圧迫を緩和し、組織や筋肉の循環不全を治療する手術です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_MISE_A_PLAT</LocID>
+				<Text>ステント治療</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_MISE_A_PLAT_DESCRIPTION</LocID>
+				<Text>カテーテルを使用して、「動脈硬化」などで狭くなっている部位に、「ステント」と呼ばれる金属製の網状の筒を留置し、血液の流れを改善する治療法です。</Text>
+			</GameDBLocalizedString>
+			<!-- v0.02 -->
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_SURRENALECTOMIE</LocID>
+				<Text>副腎摘出術</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_SURRENALECTOMIE_DESCRIPTION</LocID>
+				<Text>片方または両方の副腎を外科的に摘出します。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_EXERESE_GS</LocID>
+				<Text>外科的切除</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_EXERESE_MI</LocID>
+				<Text>外科的切除</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_EXERESE_DESCRIPTION</LocID>
+				<Text>切除とは、生体にとって有害または無益な要素を生体から除去する外科的処置です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_THYROIDECTOMIE</LocID>
+				<Text>甲状腺摘出術</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_THYROIDECTOMIE_DESCRIPTION</LocID>
+				<Text>甲状腺を外科的に切除します。</Text>
+			</GameDBLocalizedString>
+			<!-- v0.03 -->
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_SPLENECTOMIE_MI</LocID>
+				<Text>脾臓摘出術</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_SPLENECTOMIE_DESCRIPTION</LocID>
+				<Text>脾臓の外科的切除を行います。</Text>
+			</GameDBLocalizedString>
+			<!-- v0.03.2 -->
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_STÉRÉOTAXIE</LocID>
+				<Text>定位脳手術</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>TRT_MOREDG_STÉRÉOTAXIE_DESCRIPTION</LocID>
+				<Text>定位脳手術は、脳内の手術対象物を外部から相対的に位置決めして行う手術です。</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

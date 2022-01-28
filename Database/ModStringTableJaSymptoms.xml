@@ -1,0 +1,915 @@
+﻿<Database>
+	<GameDBStringTable ID="LOC_JA_ADDON_MORE_DG_SYMPTOMS">
+
+		<LanguageCode>ja</LanguageCode>
+		<LanguageNameLocalized>日本語</LanguageNameLocalized>
+
+		<Contributors>
+			<Name>MacNaab</Name>
+			<Name>Erzen</Name>
+		</Contributors>
+
+		<LocalizedStrings>
+
+			<!-- ================================================== From CRP  ================================================== -->
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SPLENOMEGALY</LocID>
+				<Text>脾腫</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_HYPERCALCEMIA</LocID>
+				<Text>高カルシウム血症</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SEVERE_HYPERCALCEMIA</LocID>
+				<Text>重度の高カルシウム血症</Text>
+			</GameDBLocalizedString>
+
+			<!-- ================================================== Normaux ================================================== -->
+			<!--  v0.01  -->
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SOUFFLE_SYSTOLIQUE</LocID>
+				<Text>収縮期心雑音</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SOUFFLE_SYSTOLIQUE_DESCRIPTION</LocID>
+				<Text>収縮期心雑音とは、収縮期に聞こえる心雑音のことです。収縮期は、心臓の筋肉のいくつかの部屋が血液で満たされた後に収縮する動作を指します。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SOUFFLE_DIASTOLIQUE</LocID>
+				<Text>拡張期心雑音</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SOUFFLE_DIASTOLIQUE_DESCRIPTION</LocID>
+				<Text>拡張期心雑音とは、拡張期に聞こえる心雑音のことです。拡張期とは、収縮期に血液がなくなった後、心臓が血液を補充する心周期の一部です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_HVG</LocID>
+				<Text>左心室肥大</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_HVG_DESCRIPTION</LocID>
+				<Text>左心室肥大症（LVH）とは、心臓の左心室の心筋が肥厚すること、すなわち左側心室肥大のことです。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_S1Q3</LocID>
+				<Text>S1Q3</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_S1Q3_DESCRIPTION</LocID>
+				<Text>心電図における「I誘導のS波、III誘導のQ波」を意味する略語です。縦軸に沿って、右心室波形が左心室波形のさらに前方、右側に移動する、生理的または病的な時計方向回転を意味します。この徴候は単独で、あるいは他の心電図徴候と組み合わせて、肺塞栓症の仮説を補強するために使われることがあります。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SCORE_WELLS</LocID>
+				<Text>Wellsスコア陽性</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SCORE_WELLS_DESCRIPTION</LocID>
+				<Text>肺塞栓症の診断スコアです。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SCORE_GENEVE</LocID>
+				<Text>Genevaスコア陽性</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SCORE_GENEVE_DESCRIPTION</LocID>
+				<Text>肺塞栓症、深部静脈血栓症の診断スコアです。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_DDIMERE</LocID>
+				<Text>Dダイマー量の高値</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_DDIMERE_DESCRIPTION</LocID>
+				<Text>Dダイマーは、血液凝固に関与するタンパク質であるフィブリンを分解することで生成されます。医師は、血栓の存在が疑われる場合、D-ダイマー量の検査を行います。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_BNP</LocID>
+				<Text>BNP量の高値</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_BNP_DESCRIPTION</LocID>
+				<Text>BNP（脳性(B型)ナトリウム利尿ペプチド）は、心筋細胞という心臓の細胞が血圧の上昇に反応して合成する神経ホルモンであり、特に心不全の発症時に多く見られます。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SYNDROME_LOGE</LocID>
+				<Text>コンパートメント症候群</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SYNDROME_LOGE_DESCRIPTION</LocID>
+				<Text>コンパートメント症候群とは、打撲による腫れなどで身体の解剖学的区画内の圧力が上昇して血行を圧迫し、その空間内の組織への血液供給が不足する状態を指します。大きく分けて、急性期と慢性期の2種類があります。脚や腕のコンパートメント症候群が一般的です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_MASSE_HYPERBATTANTE</LocID>
+				<Text>臍下部の腫瘤</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_MASSE_HYPERBATTANTE_DESCRIPTION</LocID>
+				<Text>膨張した傍臍部塊の揺れ動きを知覚しています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_INFARCTUS_MESENTERIQUE</LocID>
+				<Text>腸間膜虚血</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_INFARCTUS_MESENTERIQUE_DESCRIPTION</LocID>
+				<Text>腸管虚血とは、血液が十分に供給されないために小腸が傷害を受ける病態のことです。 \n\n必要な部屋: 一般外科の手術室 + ICU</Text>
+			</GameDBLocalizedString>
+			<!-- v0.02 -->
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ADENOME_HYPOPHYSE</LocID>
+				<Text>下垂体腺腫</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ADENOME_HYPOPHYSE_DESCRIPTION</LocID>
+				<Text>MRIで下垂体腺腫を発見しました。これだけではホルモンの過剰分泌性の有無の情報は得られません。</Text>
+			</GameDBLocalizedString>
+			<!-- v0.03.2 -->
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ABCES_CEREBRAL</LocID>
+				<Text>脳膿瘍</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ABCES_CEREBRAL_DESCRIPTION</LocID>
+				<Text>脳膿瘍は、局所（耳介感染、歯槽膿漏、副鼻腔感染、側頭骨乳様体気房感染、硬膜外膿瘍）あるいは遠隔（肺、心臓、腎臓など）の感染源から来る感染物質が脳組織内で炎症を起こして集まることにより起こる膿瘍です。</Text>
+			</GameDBLocalizedString>
+
+
+			<!-- ================================================== CRP - translate and transfer to CRP ==================================================	
++++  v0.01  +++
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOKALIEMIE</LocID>										<Text>Hypokalemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOKALIEMIE_DESCRIPTION</LocID>							<Text>Hypokalemia is a low level of potassium (K+) in the blood serum.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERKALIEMIE</LocID>									<Text>Hyperkalemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERKALIEMIE_DESCRIPTION</LocID>						<Text>Hyperkalemia is an elevated level of potassium (K+) in the blood.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_OAP</LocID>												<Text>Pulmonary edema</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_OAP_DESCRIPTION</LocID>									<Text>Pulmonary edema is fluid accumulation in the tissue and air spaces of the lungs.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ABOLITION_POULS</LocID>									<Text>No pulse</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ABOLITION_POULS_DESCRIPTION</LocID>						<Text>There is no perceived pulse to a member.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MARBRURE</LocID>											<Text>Livedo reticularis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MARBRURE_DESCRIPTION</LocID>								<Text>Livedo reticularis is a common skin finding consisting of a mottled reticulated vascular pattern that appears as a lace-like purplish discoloration of the skin. The discoloration is caused by swelling of the venules owing to obstruction of capillaries by small blood clots.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_POUL_HYPERPULSE</LocID>									<Text>Hyperpulsatile pulse</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_POUL_HYPERPULSE_DESCRIPTION</LocID>						<Text>Pulp hyperpulsatility</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_TURJESCENCE_JUGULAIRE</LocID>							<Text>JVD</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_TURJESCENCE_JUGULAIRE_DESCRIPTION</LocID>				<Text>Jugular vein distention (JVD) occurs when the pressure inside the vena cava increases and appears as a bulge running down the right side of a person’s neck.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_REFLUX_HJ</LocID>										<Text>AJR</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_REFLUX_HJ_DESCRIPTION</LocID>							<Text>The abdominojugular reflux (AJR) sign is useful in diagnosing right ventricular failure, but is often performed and interpreted incorrectly.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEPATALGIE</LocID>										<Text>Hepatalgia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEPATALGIE_DESCRIPTION</LocID>							<Text>A painful liver.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_ABDOMINAL</LocID>								<Text>Abdominal murmur</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_ABDOMINAL_DESCRIPTION</LocID>					<Text>The presence of an abdominal murmur may reflect the existence of an aneurysm of the abdominal aorta or a narrowing of the renal arteries.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_VASCULAIRE</LocID>								<Text>Vascular murmur</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SOUFFLE_VASCULAIRE_DESCRIPTION</LocID>					<Text></Text>	</GameDBLocalizedString>
++++ v0.02 +++
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MACROGLOSSIA</LocID>											<Text>Macroglossia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MACROGLOSSIA_DESCRIPTION</LocID>								<Text>Abnormal increase in tongue volume.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOGLYCEMIA</LocID>											<Text>Hypoglycemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOGLYCEMIA_DESCRIPTION</LocID>								<Text>Low blood glucose.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_GYNECOMASTIA</LocID>											<Text>Gynecomastia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_GYNECOMASTIA_DESCRIPTION</LocID>								<Text>Abnormal increase in breast volume in men.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ATROPHIE_TESTICULE</LocID>									<Text>Testicular atrophy</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_ATROPHIE_TESTICULE_DESCRIPTION</LocID>						<Text>Decrease in testicle size.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_DRY_SKIN</LocID>												<Text>Xerosis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_DRY_SKIN_DESCRIPTION</LocID>									<Text>Dry skin is skin that has lost its protective fatty layer and becomes dehydrated.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERPRL</LocID>												<Text>Hyperprolactinemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPERPRL_DESCRIPTION</LocID>									<Text>Abnormal increase in plasma prolactin concentration.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_INSUFFISANCE_SR_AIGUE</LocID>								<Text>Acute adrenal insufficiency</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_INSUFFISANCE_SR_AIGUE_DESCRIPTION</LocID>					<Text>A primary adrenal insufficiency caused by a sudden defective production of adrenal steroids.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOCALCEMIA</LocID>											<Text>Hypocalcemia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HYPOCALCEMIA_DESCRIPTION</LocID>								<Text>Hypocalcemia is an abnormal drop in the level of calcium in the blood.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_THROMBOCYTOSE</LocID>										<Text>Thrombocytosis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_THROMBOCYTOSE_DESCRIPTION</LocID>							<Text>Thrombocytosis is a condition in which there is an excessive number of platelets in the blood.</Text>	</GameDBLocalizedString>
++++ v0.03 +++
+			<GameDBLocalizedString>	<LocID>SYM_CRP_GALLSTONES</LocID>										<Text>GALLSTONES</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HTAP</LocID>												<Text>Pulmonary hypertension</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMOLYSE</LocID>											<Text>HEMOLYSE</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MED_APLASIA</LocID>										<Text>Bone aplasia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_MED_APLASIA_DESCRIPTION</LocID>							<Text>Bone marrow aplasia refers to those hematologic conditions that are caused by a marked reduction and/or defect in the pluripotent or committed stem cells, or the failure of the bone marrow microenvironment to support hematopoiesis.</Text>	</GameDBLocalizedString>
++++ v0.03.2 +++
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEPATITIS</LocID>									<Text>Hepatitis</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEPATITIS_DESCRIPTION</LocID>						<Text>Liver inflammation.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_TELANGIECTASIS</LocID>								<Text>Telangiectasia</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_TELANGIECTASIS_DESCRIPTION</LocID>					<Text>Telangiectasias, also known as spider veins, are small dilated blood vessels that can occur near the surface of the skin or mucous membranes, measuring between 0.5 and 1 millimeter in diameter. These dilated blood vessels can develop anywhere on the body but are commonly seen on the face around the nose, cheeks and chin.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SURCHARGE_FER</LocID>								<Text>Iron overload</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_SURCHARGE_FER_DESCRIPTION</LocID>					<Text>Iron overload or hemochromatosis indicates accumulation of iron in the body from any cause.</Text>	</GameDBLocalizedString>
++++ v0.03.3 +++
+			<GameDBLocalizedString>	<LocID>SYM_CRP_REJET_GREFFE</LocID>									<Text>Transplant rejection</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_REJET_GREFFE_DESCRIPTION</LocID>						<Text>The patient is in the process of rejection of his transplant, which corresponds to the destruction of the graft transplanted into an organism, due to an immune response directed against him.</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMORRAGIE_DIG_HAUTE</LocID>							<Text>UDH</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMORRAGIE_DIG_HAUTE_DESCRIPTION</LocID>				<Text>During an upper digestive hemorrhage (UDH), the bleeding occurs upstream of the Treitz ligament (oesophagus, stomach and duodenum).</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMORRAGIE_DIG_BASSE</LocID>							<Text>LDH</Text>	</GameDBLocalizedString>
+			<GameDBLocalizedString>	<LocID>SYM_CRP_HEMORRAGIE_DIG_BASSE_DESCRIPTION</LocID>				<Text>In a lower digestive hemorrhage (LDH), blood loss originates downstream from the Treitz ligament (small intestine, colon, rectum and anus).</Text>	</GameDBLocalizedString>
+-->
+
+
+			<!-- ================================================== Main ================================================== -->
+			<!--  v0.01  -->
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE</LocID>
+				<Text>大動脈弁狭窄症</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_RETRECISSEMENT_AORTIQUE_DESCRIPTION</LocID>
+				<Text>大動脈弁の直径が減少しています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE</LocID>
+				<Text>大動脈弁閉鎖不全症</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_INSUFFISANCE_AORTIQUE_DESCRIPTION</LocID>
+				<Text>大動脈弁の機能不全が起きています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_URGENCE_HTA</LocID>
+				<Text>重篤な高血圧症</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_URGENCE_HTA_DESCRIPTION</LocID>
+				<Text>急激な重症の高血圧症の発症です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SYNCOPE_REFLEXE</LocID>
+				<Text>反射性失神</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SYNCOPE_REFLEXE_DESCRIPTION</LocID>
+				<Text>痛みやストレスなどの刺激に伴い、迷走神経の働きが過剰になり脳への血流が一時的に低下することで起こります。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_HYPOTA_ORTHO</LocID>
+				<Text>陽性反応</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_HYPOTA_ORTHO_DESCRIPTION</LocID>
+				<Text>起立性低血圧の検査で陽性反応が出ました。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SYNCOPE_SA</LocID>
+				<Text>伝導疾患（不整脈）</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SYNCOPE_SA_DESCRIPTION</LocID>
+				<Text>心内伝導の完全な発作性閉塞です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_LIPOTHIMIE</LocID>
+				<Text>前駆症状</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_LIPOTHIMIE_DESCRIPTION</LocID>
+				<Text>失神に先行する徴候や症状を前駆症状といいます。卒倒という言葉は、切迫した失神の感覚を表現しています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_FA_ECG</LocID>
+				<Text>心房細動</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_FA_ECG_DESCRIPTION</LocID>
+				<Text>心房細動の診断は、心電図検査によってのみ確認することができます。心電図ではP波が確認できず、不規則なQRS波が確認されることが多いです。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_BSA_ECG</LocID>
+				<Text>洞房ブロック</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_BSA_ECG_DESCRIPTION</LocID>
+				<Text>洞房ブロック（SAB）は、ある洞房インパルス後の心房内伝導が完全に遮断された状態です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_BAV3_ECG</LocID>
+				<Text>Ⅲ度房室ブロック</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_BAV3_ECG_DESCRIPTION</LocID>
+				<Text>Ⅲ度房室ブロックは、心房から心室へのインパルス伝達が完全かつ永久的に遮断された状態です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_BBG_ECG</LocID>
+				<Text>左脚ブロック</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_BBG_ECG_DESCRIPTION</LocID>
+				<Text>心電図検査で左脚ブロックの典型的な症例が現れています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_TV_ECG</LocID>
+				<Text>心室頻拍</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_TV_ECG_DESCRIPTION</LocID>
+				<Text>心電図検査で心室頻拍の典型的な症例が現れています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_QT_LONG</LocID>
+				<Text>QT延長</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_QT_LONG_DESCRIPTION</LocID>
+				<Text>心電図検査でのQT間隔の延長が現れています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_TCJ_ECG</LocID>
+				<Text>接合部性頻拍</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_TCJ_ECG_DESCRIPTION</LocID>
+				<Text>接合部性頻拍は、房室結節またはその隣接組織における異常自動能によって引き起こされ、典型的には開心術，急性下壁梗塞，心筋炎，またはジギタリス中毒の後に発生します。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ONDE_DELTA</LocID>
+				<Text>デルタ波</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ONDE_DELTA_DESCRIPTION</LocID>
+				<Text>心電図波形のQRS波の前にデルタ波が生じています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_G</LocID>
+				<Text>左心室駆出率の変動</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_G_DESCRIPTION</LocID>
+				<Text>左心室駆出率（LVEF）とは、左心室から排出される血液の割合のことです。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_D</LocID>
+				<Text>右心室駆出率の変動</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_INSUFFISANCE_CARDIAQUE_D_DESCRIPTION</LocID>
+				<Text>右心室駆出率（RVEF）とは、右心室から排出される血液の割合のことです。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_IPS_BAS</LocID>
+				<Text>収縮期血圧指数の低値</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_IPS_BAS_DESCRIPTION</LocID>
+				<Text>収縮期血圧指数（SPI）が0.9未満であること。SPIは、下肢と上肢の収縮期血圧を収集し、足関節圧／上腕圧比を設定することに基づいています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ANEVRISME_AAA</LocID>
+				<Text>腹部大動脈瘤</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ANEVRISME_AAA_DESCRIPTION</LocID>
+				<Text>腹部大動脈瘤(AAA)が検出されました。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ANEVRISME_POPLITE</LocID>
+				<Text>膝窩動脈瘤</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ANEVRISME_POPLITE_DESCRIPTION</LocID>
+				<Text>膝部分に動脈瘤が検出されました。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_OCCLUSION_A_COELIAQUE</LocID>
+				<Text>腹動脈瘤</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_OCCLUSION_A_COELIAQUE_DESCRIPTION</LocID>
+				<Text>腹腔動脈と腸間膜動脈の閉塞です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ISCHEMIE_MS</LocID>
+				<Text>上肢組織虚血</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ISCHEMIE_MS_DESCRIPTION</LocID>
+				<Text>虚血とは、身体の一部や臓器の血液循環が停止または不全となり、細胞への酸素供給が奪われ、細胞が壊死してしまうことです。血管の閉塞（血栓症）や動脈の圧迫（狭窄）が原因となることがあります。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ISCHEMIE_MI</LocID>
+				<Text>下肢組織虚血</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ISCHEMIE_MI_DESCRIPTION</LocID>
+				<Text>虚血とは、身体の一部や臓器の血液循環が停止または不全となり、細胞への酸素供給が奪われ、細胞が壊死してしまうことです。血管の閉塞（血栓症）や動脈の圧迫（狭窄）が原因となることがあります。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ISCHEMIE_MESENTERIQUE</LocID>
+				<Text>腸間膜動脈閉塞</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ISCHEMIE_MESENTERIQUE_DESCRIPTION</LocID>
+				<Text>腸間膜動脈の急性閉塞や低流動性を指します。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AAA</LocID>
+				<Text>腹部大動脈瘤の破裂</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AAA_DESCRIPTION</LocID>
+				<Text>腹部大動脈瘤の破裂が起きています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AIC</LocID>
+				<Text>総腸骨動脈瘤の破裂</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_RUPTURE_ANEVRISME_AIC_DESCRIPTION</LocID>
+				<Text>総腸骨動脈瘤の破裂が起きています。</Text>
+			</GameDBLocalizedString>
+			<!-- v0.02 -->
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_TESTO</LocID>
+				<Text>生物学的利用能のあるテストステロンの低下</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_TESTO_DESCRIPTION</LocID>
+				<Text>循環型テストステロンの著しい低下が起きています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_PROLACTINOME_F</LocID>
+				<Text>プロラクチノーマ</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_PROLACTINOME_H</LocID>
+				<Text>プロラクチノーマ</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_PROLACTINOME_DESCRIPTION</LocID>
+				<Text>MRIでプロラクチノーマを検出しました。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ADENOME_SOMATOTROPE</LocID>
+				<Text>成長ホルモン分泌腺腫</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ADENOME_SOMATOTROPE_DESCRIPTION</LocID>
+				<Text>No braking during the "minute" brake test.（原文の指している内容が不明）</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_F</LocID>
+				<Text>副腎皮質刺激ホルモン分泌腺腫</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_H</LocID>
+				<Text>副腎皮質刺激ホルモン分泌腺腫</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ADENOME_CORTICOTROPE_DESCRIPTION</LocID>
+				<Text>この検査でコルチゾール量が18 ng / ml [50 nmol / l]の閾値を下回らなければ、非治癒性高コルチゾール血症の診断に利用されます。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ADENOME_THYREOTROPE</LocID>
+				<Text>甲状腺機能性腺腫</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ADENOME_THYREOTROPE_DESCRIPTION</LocID>
+				<Text>血液検査で甲状腺機能性腺腫を発見しました。これは、TSHの正常高濃度または異常濃度に伴う甲状腺ホルモンの高濃度が特徴です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_F</LocID>
+				<Text>汎下垂体機能低下症</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_H</LocID>
+				<Text>汎下垂体機能低下症</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_PAN_HYPOPITUITARISME_DESCRIPTION</LocID>
+				<Text>MRIで松果腺の正常な機能を阻害する下垂体腺腫を発見しました。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ISRNP_F</LocID>
+				<Text>末梢性副腎機能不全</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ISRNP_H</LocID>
+				<Text>末梢性副腎機能不全</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ISRNP_DESCRIPTION</LocID>
+				<Text>ACTH刺激試験で末梢性副腎機能不全を発見しました。これは高濃度のACTHとコルチゾール値の低さが特徴です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_21OH_F</LocID>
+				<Text>21水酸化酵素欠損症</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_21OH_H</LocID>
+				<Text>21水酸化酵素欠損症</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_21OH_DESCRIPTION</LocID>
+				<Text>21-水酸化酵素欠損症、D21OH-NCの診断は、朝、かつ治療の最初に17-ヒドロキシプロゲステロンを投与して行われることが望ましいということは、内分泌学者全員が認めるところです。グルココルチコイドによる治療の予定の無い場合か、または治療の影響を受けないようにサンプルを採取しなければなりません。なぜなら、「代用」治療や必然的な薬物治療でさえ、副腎皮質刺激性軸を阻害することによって診断を無視する（偽陰性）リスクを導入するからです。サンプリングも午前中に行わなければなりません。午後に行うと、副腎皮質機能の周期的な変動により、患者のサンプル濃度が正常範囲に収まることがあるからです。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ISF_CORTICOT</LocID>
+				<Text>中枢性副腎不全</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ISF_CORTICOT_DESCRIPTION</LocID>
+				<Text>シナクテン検査で中枢性副腎機能不全を発見しました。結果は、ACTHの低濃度とコルチゾールレベルの低さを特徴とします。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_AC_ANTI_CASR</LocID>
+				<Text>抗CaSR抗体</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_AC_ANTI_CASR_DESCRIPTION</LocID>
+				<Text>ELISA検査により抗CaSR抗体の存在が認められました。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ADENOME_PARATHYROIDE</LocID>
+				<Text>副甲状腺腺腫</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ADENOME_PARATHYROIDE_DESCRIPTION</LocID>
+				<Text>シンチグラフィー検査により副甲状腺腺腫の存在が認められました。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_CONN</LocID>
+				<Text>副腎腺腫</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_CONN_DESCRIPTION</LocID>
+				<Text>CTスキャンにより副腎腺腫の分泌の存在が認められました。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_HPBL_SRN</LocID>
+				<Text>副腎肥大</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_HPBL_SRN_DESCRIPTION</LocID>
+				<Text>CTスキャンにより副腎の大きさの増大が認められました。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_INSULINOME</LocID>
+				<Text>不適切なインスリン・ペプチドCの分泌</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_INSULINOME_DESCRIPTION</LocID>
+				<Text>低血糖におけるインスリンおよびペプチドCの不適切な（正常または高）分泌が起きています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SD_HGP</LocID>
+				<Text>膵臓性低血糖</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SD_HGP_DESCRIPTION</LocID>
+				<Text>インスリン分泌腺腫と関連のない膵臓由来の低血糖症が起きています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_THYROIDE_QUERVAIN</LocID>
+				<Text>白色のシンチグラフィー</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_THYROIDE_QUERVAIN_DESCRIPTION</LocID>
+				<Text>シンチグラフィーでは検査部位の固定化は見られませんでした。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_GOITRE_MULTINODULAIRE_TOXIQUE</LocID>
+				<Text>シンチグラフィーでの”市松模様”</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_GOITRE_MULTINODULAIRE_TOXIQUE_DESCRIPTION</LocID>
+				<Text>シンチグラフィーでフィルムに温度差による市松模様状の斑が出来ています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ADENOME_TOXIQUE</LocID>
+				<Text>Toxic adenoma</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ADENOME_TOXIQUE_DESCRIPTION</LocID>
+				<Text>シンチグラフィーでは、結節のレベルで同位体の高固定化が見られる一方、残りの実質層は低固定化または低温、あるいは「消滅」（TSHの減少による）しています。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_HYPEROSMOLAIRE</LocID>
+				<Text>高浸透圧性</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_HYPEROSMOLAIRE_DESCRIPTION</LocID>
+				<Text>浸透圧が異常に高くなっています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_CETONEMIE</LocID>
+				<Text>ケトン血症</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_CETONEMIE_DESCRIPTION</LocID>
+				<Text>血液中にケトン体が過剰に存在する状態です。</Text>
+			</GameDBLocalizedString>
+			<!-- v0.03 -->
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_PBG-D</LocID>
+				<Text>ポルフォビリノーゲンデアミナーゼ量の低下</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_PBG-D_DESCRIPTION</LocID>
+				<Text>ポルフォビリノーゲンデアミナーゼ（ヒドロキシメチルビラン合成酵素、ウロポルフィリノーゲンI合成酵素）は、ヒトではHMBS遺伝子に影響される酵素です。ポルフォビリノーゲンデアミナーゼは、ヘム生合成経路の第三段階に関与しています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SPHEROCYTE</LocID>
+				<Text>球状赤血球</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SPHEROCYTE_DESCRIPTION</LocID>
+				<Text>血液塗抹標本中に球状になった赤血球を認めました。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_DEFICIT_GPI</LocID>
+				<Text>グルコース-6-リン酸イソメラーゼ量の低下</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_DEFICIT_GPI_DESCRIPTION</LocID>
+				<Text>グルコース-6-リン酸イソメラーゼ（GPI）は、別名ホスホグルコースイソメラーゼ（PGI）またはホスホヘキソースイソメラーゼ（PHI）と呼ばれ、ヒトでは19番染色体上のGPI遺伝子に影響される酵素です。細胞質では、この遺伝子産物は、グルコース-6-リン酸（G6P）とフルクトース-6-リン酸（F6P）を相互変換する解糖系酵素（グルコース-6-リン酸イソメラーゼ）として機能しています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_DEFICIT_G6PD</LocID>
+				<Text>グルコース-6-リン酸デヒドロゲナーゼ量の低下</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_DEFICIT_G6PD_DESCRIPTION</LocID>
+				<Text>グルコース-6-リン酸デヒドロゲナーゼ（G6PDまたはG6PDH）は細胞質酵素であり、過酸化水素などの化合物による酸化的損傷から赤血球を保護するのに役立っています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_PK_BAS</LocID>
+				<Text>ピルビン酸キナーゼ量の低下</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_PK_BAS_DESCRIPTION</LocID>
+				<Text>ピルビン酸キナーゼは、解糖の最後の段階に関与する酵素です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MORE_DG_TEST_COMBS_D</LocID>
+				<Text>クームス試験陽性</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MORE_DG_TEST_COMBS_D_DESCRIPTION</LocID>
+				<Text>クームス試験は陽性です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_DEFICIT_ADAMTS13</LocID>
+				<Text>ADAMTS13量の低下</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_DEFICIT_ADAMTS13_DESCRIPTION</LocID>
+				<Text>ADAMTS13、別名フォンウィルブランド因子切断プロテアーゼ（VWFCP）は、亜鉛含有金属タンパク質酵素で、血液凝固に関わる大型タンパク質vWf（フォンウィルブラント因子）を切断する酵素として知られています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_DREPANOCYTE_A</LocID>
+				<Text>鎌状赤血球</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_DREPANOCYTE_C</LocID>
+				<Text>鎌状赤血球</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_DREPANOCYTE_DESCRIPTION</LocID>
+				<Text>血液塗抹標本中に鎌状になった赤血球を認めました。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_vWF</LocID>
+				<Text>フォンウィルブランド因子の量の低下</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_vWF_DESCRIPTION</LocID>
+				<Text>フォンウィルブランド因子（VWF）は、止血に関与する血液中の糖タンパク質です。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_PURPURA_FULMINANS</LocID>
+				<Text>電撃性紫斑病</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_PURPURA_FULMINANS_DESCRIPTION</LocID>
+				<Text>電撃性紫斑病が認められました。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_CIVD_DECOMPENSE</LocID>
+				<Text>播種性血管内凝固症候群による減圧</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_CIVD_DECOMPENSE_DESCRIPTION</LocID>
+				<Text>播種性血管内凝固症候群が認められました。</Text>
+			</GameDBLocalizedString>
+			<!-- v0.03.2 -->
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_NPC1_MUTE</LocID>
+				<Text>NPC1の変異</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_NPC1_MUTE_DESCRIPTION</LocID>
+				<Text>NPC1およびNPC2というタンパク質は、エンド・リソソーム系のレベルでコレステロールやその他の分子の細胞内輸送を促進するために働いているようですが、その正確な機能はまだわかっていません。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_IGE_PNE</LocID>
+				<Text>HE - IgE</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_IGE_PNE_DESCRIPTION</LocID>
+				<Text>過好酸球増加と免疫グロブリンの一種であるIgE抗体の増加が確認されました。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_CASSURE_K</LocID>
+				<Text>検査での陽性</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_CASSURE_K_DESCRIPTION</LocID>
+				<Text>染色体切断解析は陽性です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_PLAQUETTES_GEANTES</LocID>
+				<Text>巨大血小板性血小板減少症</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_PLAQUETTES_GEANTES_DESCRIPTION</LocID>
+				<Text>調査した血小板のうち10％以上が巨大血小板です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_DEFICIT_AIIB_B3</LocID>
+				<Text>インテグリンの異常</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_DEFICIT_AIIB_B3_DESCRIPTION</LocID>
+				<Text>インテグリンαIIbβ3の量的および/または質的異常が認められます。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_MUTATION_RP</LocID>
+				<Text>リボソーム蛋白質の変異</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_MUTATION_RP_DESCRIPTION</LocID>
+				<Text>小（RPS7、RPS17、RPS19、RPS24）または大リボソームサブユニット（RPL5、RPL11、RPL35a）のリボソーム蛋白質（RP）に異変が認められます。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_GLUCOCEREBROSIDASE</LocID>
+				<Text>グルコセレブロシダーゼ欠乏</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_GLUCOCEREBROSIDASE_DESCRIPTION</LocID>
+				<Text>グルコセレブロシダーゼが減少しており、グルコシルセラミドの沈着が起こりやすくなっています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_MUTATION_SH2D1A</LocID>
+				<Text>SH2D1A遺伝子の変異</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_MUTATION_SH2D1A_DESCRIPTION</LocID>
+				<Text>X染色体上に存在するSH2D1A遺伝子の変異が認められました。この遺伝子は、SAPと呼ばれるタンパク質に影響を与えています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SIDEROBLASTE</LocID>
+				<Text>担鉄赤芽球</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_SIDEROBLASTE_DESCRIPTION</LocID>
+				<Text>担鉄赤芽球が発見された。これはPerls試薬で染色した鉄を含む顆粒で、リボソームとフェリチンの凝集体に相当します。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ERYTHROBLASTOPENIE</LocID>
+				<Text>赤芽球</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ERYTHROBLASTOPENIE_DESCRIPTION</LocID>
+				<Text>赤芽球が少なくなっています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_HÉMOGLOBINE_C</LocID>
+				<Text>C型ヘモグロビン</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_HÉMOGLOBINE_C_DESCRIPTION</LocID>
+				<Text>血液塗抹標本検査によってC型ヘモグロビンの存在が認められました。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_HÉMOGLOBINE_D</LocID>
+				<Text>D型ヘモグロビン</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_HÉMOGLOBINE_D_DESCRIPTION</LocID>
+				<Text>血液塗抹標本検査によってD型ヘモグロビンの存在が認められました。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_HÉMOGLOBINE_E</LocID>
+				<Text>E型ヘモグロビン</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_HÉMOGLOBINE_E_DESCRIPTION</LocID>
+				<Text>血液塗抹標本検査によってE型ヘモグロビンの存在が認められました。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_HÉMOGLOBINE_M</LocID>
+				<Text>ヘモグロビンM</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_HÉMOGLOBINE_M_DESCRIPTION</LocID>
+				<Text>血液塗抹標本検査によってM型ヘモグロビンの存在が認められました。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_TRIADE_PLUMMER_VINSON</LocID>
+				<Text>三徴候</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_TRIADE_PLUMMER_VINSON_DESCRIPTION</LocID>
+				<Text>嚥下障害、鉄欠乏性貧血、食道ウェブの古典的な三徴候です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_MUTATION_ACVRL_ENG</LocID>
+				<Text>ACVRLまたはENG遺伝子の異変</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_MUTATION_ACVRL_ENG_DESCRIPTION</LocID>
+				<Text>TGF-βシグナル伝達経路に関与する2つのACVRLまたはENG遺伝子のいずれかに変異が見つかっています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_LT_ANORMAL</LocID>
+				<Text>クームス試験の陽性</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_LT_ANORMAL_DESCRIPTION</LocID>
+				<Text>クームス試験は陽性です。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_MUTATION_HFE</LocID>
+				<Text>HFE 遺伝子の変異</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_MUTATION_HFE_DESCRIPTION</LocID>
+				<Text>6番染色体上にあるHFE遺伝子に変異がある。C282Y変異とH63D変異の2種類の変異が存在しています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_MUTATION_HJV_OU_HAMP</LocID>
+				<Text>遺伝子の変異</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_MUTATION_HJV_OU_HAMP_DESCRIPTION</LocID>
+				<Text>1番染色体のヘモジュベリン（HJV）をコードする遺伝子の変異や、19番染色体のヘプシジン（HAMP）をコードする遺伝子の変異が見つかっています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_MUTATION_TFR2</LocID>
+				<Text>トランスフェリン受容体-2遺伝子の変異</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_MUTATION_TFR2_DESCRIPTION</LocID>
+				<Text>第7染色体のトランスフェリン受容体-2（TFR2）遺伝子に変異が見つかっています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_MUTATION_SLC40A1</LocID>
+				<Text>SLC40A1遺伝子の変異</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_MUTATION_SLC40A1_DESCRIPTION</LocID>
+				<Text>フェロポルチン（FPN）をコードする2番染色体上のSLC40A1遺伝子に変異が見つかっています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_MO_HYPOCELLULAIRE</LocID>
+				<Text>骨髄の低細胞化</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_MO_HYPOCELLULAIRE_DESCRIPTION</LocID>
+				<Text>骨髄が低細胞性であり、「空」の状態です。</Text>
+			</GameDBLocalizedString>
+
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_PURPURA_THROMBOPENIQUE</LocID>
+				<Text>血小板減少性紫斑病</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_PURPURA_THROMBOPENIQUE_DESCRIPTION</LocID>
+				<Text>血小板減少性紫斑病が疑われる症状を確認しました。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_DRESS_SD</LocID>
+				<Text>薬剤性過敏症症候群</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_DRESS_SD_DESCRIPTION</LocID>
+				<Text>薬剤性過敏症症候群を示唆する症状を確認しました。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ANTICORPS_ANTI_F4P</LocID>
+				<Text>抗PF4 / ヘパリン抗体の検出</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_ANTICORPS_ANTI_F4P_DESCRIPTION</LocID>
+				<Text>抗PF4 / ヘパリン抗体をELISA法により検出しました。</Text>
+			</GameDBLocalizedString>
+			<!-- v0.03.3 -->
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_CORTISOL_EFF</LocID>
+				<Text>コルチゾール濃度の大幅低下</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_CORTISOL_EFF_DESCRIPTION</LocID>
+				<Text>血中のコルチゾール濃度が非常に低くなっています。</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_TRANSPLANTATION_COEUR</LocID>
+				<Text>心臓移植</Text>
+			</GameDBLocalizedString>
+			<GameDBLocalizedString>
+				<LocID>SYM_MOREDG_TRANSPLANTATION_COEUR_DESCRIPTION</LocID>
+				<Text>この患者には、早急な心臓移植が必要です！</Text>
+			</GameDBLocalizedString>
+
+		</LocalizedStrings>
+
+
+	</GameDBStringTable>
+</Database>
